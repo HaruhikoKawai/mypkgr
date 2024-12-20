@@ -1,5 +1,5 @@
 import launch
-import launch.action
+import launch.actions
 import launch.substitutions
 import launch_ros.actions
 
